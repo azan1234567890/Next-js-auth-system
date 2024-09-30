@@ -1,4 +1,3 @@
-import Dashboard from "./dashboard/page";
 import SignIn from "./signin/page";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
